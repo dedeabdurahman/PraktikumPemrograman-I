@@ -1,6 +1,0 @@
-//Latihan Repository dan GIT
-Pemrograman I
-Created By : Dede Abdurahman
-
-Latihan GIT
-Dengan memasukkan file dalam bentuk .txt
