@@ -1,0 +1,10 @@
+//Biodata
+Pemrograman I
+Created By : Dede Abdurahman
+
+
+Biodata Mahasiswa
+Nama	: Dede Abdurahman
+NIM		: 4512215047
+Jurusan	: Teknik Informatika
+Alamat	: Depok
